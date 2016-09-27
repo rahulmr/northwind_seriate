@@ -1,0 +1,26 @@
+{
+  "name": "northwind_seriate",
+  "version": "1.0.0",
+  "description": "Testing northwind databases with seriate mssql nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulmr/northwind_seriate.git"
+  },
+  "keywords": [
+    "northwind",
+    "mssql",
+    "seriate",
+    "nodejs",
+    "node"
+  ],
+  "author": "Rahul Raut",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rahulmr/northwind_seriate/issues"
+  },
+  "homepage": "https://github.com/rahulmr/northwind_seriate#readme"
+}
